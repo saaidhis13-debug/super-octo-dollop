@@ -21,5 +21,17 @@ i have learned about the components in  a laptop and what can be fixed by the us
 
 <img width="1873" height="940" alt="image" src="https://github.com/user-attachments/assets/cb573a9a-bb59-491e-9e59-039b5288d439" />
 
+i have learned about the operating system and file system
+
+
+<img width="1868" height="951" alt="image" src="https://github.com/user-attachments/assets/ef04ee1c-3a6d-4225-b240-1f97cb311358" />
+
+i have leaned about virtualization
+
+
+<img width="1857" height="932" alt="image" src="https://github.com/user-attachments/assets/0c3f4114-5b3c-445b-8285-7b355833b295" />
+
+
+
 
 
