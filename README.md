@@ -16,3 +16,10 @@ its about binary denary hex convertions and how the computer works, discussed ab
 
 <img width="1882" height="947" alt="image" src="https://github.com/user-attachments/assets/3d85f41d-0b22-4b83-b45a-f589b5b3300c" />
 
+i have learned about the components in  a laptop and what can be fixed by the user and what should be handed to the manufacture
+
+
+<img width="1873" height="940" alt="image" src="https://github.com/user-attachments/assets/cb573a9a-bb59-491e-9e59-039b5288d439" />
+
+
+
