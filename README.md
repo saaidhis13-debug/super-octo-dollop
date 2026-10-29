@@ -31,6 +31,11 @@ i have leaned about virtualization
 
 <img width="1857" height="932" alt="image" src="https://github.com/user-attachments/assets/0c3f4114-5b3c-445b-8285-7b355833b295" />
 
+i have completed the windows section of the course
+
+<img width="1893" height="982" alt="image" src="https://github.com/user-attachments/assets/2234c885-ddb2-4620-a54e-f3ec6a8f54b7" />
+
+
 
 
 
