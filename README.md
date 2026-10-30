@@ -35,6 +35,11 @@ i have completed the windows section of the course
 
 <img width="1893" height="982" alt="image" src="https://github.com/user-attachments/assets/2234c885-ddb2-4620-a54e-f3ec6a8f54b7" />
 
+ i learned about linux
+
+ <img width="1840" height="937" alt="image" src="https://github.com/user-attachments/assets/cba2f0ec-44ca-4df1-821b-9c005999cc75" />
+
+
 
 
 
